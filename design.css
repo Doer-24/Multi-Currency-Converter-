@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+h2{
+    color: white;
+    font-family: "press Start 2p", "consalas", sans-serif;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-family:sans-serif;
+    font-style: italic;
+}
+
+table{
+    text-align: center;
+    background: linear-gradient( black, skyblue);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-left-style: double;
+    border-right-style: double;
+    border-radius: 15px;
+    padding: 9px;
+    border-color: blue;
+    color: #4FFFB0;
+    font-weight: bold;
+    font-size: 18px;
+    height: 1000px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+
+    color: black;
+    text-align: center;
+}
+
+table,th,td{
+    border: 1px solid;
+}
+/* D☼
